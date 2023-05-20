@@ -1,0 +1,9 @@
+.text-center.container-fluid {
+    background-color: #212529;  
+    margin-top: 15px;
+}
+p.All {
+    color: white;
+    margin-top: 18px;
+    font-size: 20px;
+}

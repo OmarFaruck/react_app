@@ -1,0 +1,12 @@
+
+.service{
+    padding: 10px;
+    border: 1px #fff solid;
+}
+.services .service h5 { 
+    font-weight: 700;
+}
+.services .service p {
+    margin-top: 18px; 
+    font-weight: 500;
+}

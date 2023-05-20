@@ -1,0 +1,37 @@
+[
+    {
+      "id": "1",
+      "text": "SPOTOGRAPHER",
+      "subtext": "Sports Photographer",
+      "maintext": "I Capture Sports Moments and Actions.",
+      "img": "http://localhost:3001/static/media/slider-1.7e32f82128d8eae0bc2f.jpg",
+      "button": " More About Me"
+    },
+    {
+      "id": "2",
+      "text": "SPOTOGRAPHER",
+      "subtext": "Sports Photographer",
+      "maintext": "I Capture Sports Moments and Actions.",
+      "img": "http://localhost:3001/static/media/slider-2.6590edc4a5fa74a0ca17.jpg",
+      "button": " More About Me"
+    },
+    {
+      "id": "3",
+      "text": "SPOTOGRAPHER",
+      "subtext": "Sports Photographer",
+      "maintext": "I Capture Sports Moments and Actions.",
+      "img": "http://localhost:3001/static/media/slider-2.6590edc4a5fa74a0ca17.jpg",
+      "button": " More About Me"
+    },
+    {
+      "id": "4",
+      "text": "SPOTOGRAPHER",
+      "subtext": "Sports Photographer",
+      "maintext": "I Capture Sports Moments and Actions.",
+      "img": "img1",
+      "button": " More About Me"
+    }
+   
+ 
+  
+  ]

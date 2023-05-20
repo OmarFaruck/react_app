@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "subtext": "Sporting Events Photography",
+    "price": "price:$300",
+    "maintext": "I'm the leading sporting event photographer in Bangladesh. I offer quality images and products, on-site printing and great pricing!",
+    "img": "https://biswajitadhikary.com/sports-photographer/service-one.jpg"
+  },
+  {
+    "id": "2",
+    "subtext": "Sporting Events Photography",
+    "price": "price:$300",
+    "maintext": "I'm the leading sporting event photographer in Bangladesh. I offer quality images and products, on-site printing and great pricing!",
+    "img": "https://biswajitadhikary.com/sports-photographer/service-two.jpg"
+  },
+  {
+    "id": "3",
+    "subtext": "Sporting Events Photography",
+    "price": "price:$300",
+    "maintext": "I'm the leading sporting event photographer in Bangladesh. I offer quality images and products, on-site printing and great pricing!",
+    "img": "https://biswajitadhikary.com/sports-photographer/service-three.jpg"
+  }
+]
